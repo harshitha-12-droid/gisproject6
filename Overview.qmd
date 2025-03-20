@@ -9,7 +9,7 @@ date-modified: "last-modified"
 
 ## The Study Area
 
-For the purpose of this project, we will focus on the Singapore main island. 
+For the purpose of this project, we will focus on the KL main island, namely the outer areas.
 
 ### Sub-heading 1
 
