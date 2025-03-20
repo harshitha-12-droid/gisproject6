@@ -7,7 +7,9 @@ date-modified: "last-modified"
 
 ## Introduction 
 
-## The Study Area 
+## The Study Area
+
+For the purpose of this project, we will focus on the Singapore main island. 
 
 ### Sub-heading 1
 
